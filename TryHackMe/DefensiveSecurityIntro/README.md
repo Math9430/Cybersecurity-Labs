@@ -54,4 +54,4 @@ Dimostra la fase di escalation all'interno del flusso SOC.
 ### 5. Firewall Block  
 Blocco dell’indirizzo IP identificato come malevolo tramite il pannello firewall.
 
-![Firewall Block](./Firewall%20Block.png)
+![Firewall Block](./Firewall-Block.png)
