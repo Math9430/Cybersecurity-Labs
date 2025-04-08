@@ -10,5 +10,6 @@ Ogni sottocartella contiene:
 ## Room completate finora:
 
 - [OffensiveSecurityIntro](./OffensiveSecurityIntro/) – Directory brute forcing su sito bancario simulato
+- [DefensiveSecurityIntro](./DefensiveSecurityIntro/) - Rilevamento e risposta a un IP malevolo tramite SIEM e firewall
 
 *In aggiornamento continuo…*
