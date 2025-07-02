@@ -11,6 +11,6 @@ Ogni sottocartella contiene:
 
 - [OffensiveSecurityIntro](./OffensiveSecurityIntro/) – Directory brute forcing su sito bancario simulato
 - [DefensiveSecurityIntro](./DefensiveSecurityIntro/) - Rilevamento e risposta a un IP malevolo tramite SIEM e firewall
-- [Linux-Fundamentals](./Comandi_Base/) - Introduzione Pratica a Linux (part 1) - Comandi Base
+- [Linux-Fundamentals](./Linux-Fundamentals/) - Introduzione Pratica a Linux (part 1) - Comandi Base
 
 *In aggiornamento continuo…*
