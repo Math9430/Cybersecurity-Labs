@@ -27,8 +27,9 @@ Questa sezione rappresenta un consolidamento pratico di quanto già studiato dur
 
 ## 📸 Screenshot terminale
 
-
-
-
+<img width="1248" alt="1" src="https://github.com/user-attachments/assets/cb54efb1-79d0-457e-b559-ccda63b8b10d" />
+<img width="1240" alt="NANO" src="https://github.com/user-attachments/assets/c78290bd-812e-43bb-83f1-4f5ec83f9279" />
+<img width="1597" alt="2" src="https://github.com/user-attachments/assets/95b0cd26-20a8-4b80-8c9c-8529d767f878" />
+<img width="1250" alt="3" src="https://github.com/user-attachments/assets/0b4ee2fd-94bb-47be-9d18-4df263387243" />
 
 ---
