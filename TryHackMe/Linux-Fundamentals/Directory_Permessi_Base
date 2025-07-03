@@ -1,0 +1,34 @@
+# 🧠 Ripasso Comandi Linux – Directory e Permessi Fondamentali
+
+## 📍 Contesto
+
+Questa esercitazione fa parte del percorso **Linux Fundamentals** all’interno della piattaforma TryHackMe. I comandi affrontati costituiscono le basi per l’interazione con il filesystem Linux, in particolare con riferimento alla gestione delle directory, alla creazione e modifica di file, alla navigazione avanzata e alla comprensione di directory di sistema fondamentali.
+
+## 🎯 Obiettivi dell'esercitazione
+
+Durante l’attività, ho ripassato e approfondito l’uso pratico dei seguenti comandi:
+
+- `ls -A`  
+- `touch`  
+- `mkdir`  
+- `cp`  
+- `mv`  
+- `rm`  
+- `file`  
+- `ls -lh`  
+- `su`  
+- Navigazione e comprensione delle directory: `/etc`, `/var`, `/root`, `/tmp`
+
+> 🔎 **Nota**: Alcuni dei comandi elencati non sono mostrati nello screenshot per ragioni di praticità e chiarezza visiva. Tuttavia, sono stati regolarmente testati e applicati nel contesto dell’esercitazione.
+
+## 🧠 Collegamento con esperienze pregresse
+
+Questa sezione rappresenta un consolidamento pratico di quanto già studiato durante il conseguimento del **Google Cybersecurity Certificate**, dove la shell Linux e i comandi principali sono stati ampiamente trattati in ambito teorico. L'attività su TryHackMe ha rafforzato la mia capacità di applicarli direttamente in un ambiente simulato, migliorando la mia operatività in ambito cybersecurity.
+
+## 📸 Screenshot terminale
+
+
+
+
+
+---
