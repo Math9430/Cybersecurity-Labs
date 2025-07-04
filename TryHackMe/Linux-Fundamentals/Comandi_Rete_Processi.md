@@ -40,4 +40,4 @@ Tutti i comandi affrontati in questa esercitazione erano già stati ampiamente a
 <img width="1238" alt="10" src="https://github.com/user-attachments/assets/21c5babb-21cc-4900-8fc8-6ae3155ed100" />
 <img width="1228" alt="11" src="https://github.com/user-attachments/assets/2dbc330a-617a-4c32-95ed-66eef2124f65" />
 
---
+---
