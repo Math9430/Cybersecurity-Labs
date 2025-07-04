@@ -29,10 +29,8 @@ Tutti i comandi affrontati in questa esercitazione erano già stati ampiamente a
 ## 📸 Esecuzione
 
 <img width="688" alt="1" src="https://github.com/user-attachments/assets/a65d385f-7e4e-4f96-b6cf-a6d4bee979f3" />
-
 <img width="1193" alt="2" src="https://github.com/user-attachments/assets/3c9ea4fd-21a0-41cf-8a05-eacd24c13380" />
 <img width="1228" alt="3" src="https://github.com/user-attachments/assets/8926328c-4010-4390-aed3-cfd7714c88c7" />
-
 <img width="1165" alt="4" src="https://github.com/user-attachments/assets/0543c1eb-9dd8-4a78-bd5c-111106890604" />
 <img width="825" alt="5" src="https://github.com/user-attachments/assets/979eb7bc-ec94-43ba-bd7f-85e3698bf865" />
 <img width="877" alt="6" src="https://github.com/user-attachments/assets/7930757e-0b38-4407-8527-62664beefbc9" />
