@@ -22,6 +22,6 @@ Tutti i contenuti affrontati durante il percorso risultano **già ampiamente app
 
 📸 Di seguito è riportato anche uno screenshot del certificato:
 
-[Cert. THM-PreSecurity.pdf](https://github.com/user-attachments/files/21073837/Cert.THM-PreSecurity.pdf)
+![Cert  THM-PreSecurity_page-0001](https://github.com/user-attachments/assets/89bec552-60eb-4fc1-87e6-ef0d5794f99c)
 
 ---
