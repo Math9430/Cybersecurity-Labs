@@ -7,7 +7,7 @@ Ogni sottocartella contiene:
 - Un file README con una descrizione, gli obiettivi, gli strumenti utilizzati e riflessioni personali
 - (Facoltativo) screenshot, script o appunti tecnici
 
-## Room completate finora:
+## Room completate finora (Pre Security - Path):
 
 - [Offensive Security Intro](./OffensiveSecurityIntro/) – Directory brute forcing su sito bancario simulato
 - [Defensive Security Intro](./DefensiveSecurityIntro/) - Rilevamento e risposta a un IP malevolo tramite SIEM e firewall
