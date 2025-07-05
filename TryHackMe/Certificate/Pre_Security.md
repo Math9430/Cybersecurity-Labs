@@ -18,7 +18,7 @@ Tutti i contenuti affrontati durante il percorso risultano **già ampiamente app
 
 ## 🏆 Certificazione
 
-🔗 **Link:** [Pre-Security](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-OHIXZKWB4I.png)  
+🔗 **Link:** [Pre-Security_Learning-Path](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-OHIXZKWB4I.png)  
 
 📸 :
 
