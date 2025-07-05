@@ -18,4 +18,4 @@ Ogni sottocartella contiene:
 
 ## Room Completate finora (Cyber Security 101)
 
-*In aggiornamento continuo…*
+*In aggiornamento...*
