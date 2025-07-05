@@ -1,6 +1,6 @@
 # TryHackMe – Archivio delle Room
 
-Questa sezione raccoglie la documentazione delle room #rilevanti# completate su TryHackMe.
+Questa sezione raccoglie la documentazione delle room *rilevanti* completate su TryHackMe.
 
 Ogni sottocartella contiene:
 - Il nome della room
