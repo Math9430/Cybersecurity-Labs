@@ -19,5 +19,6 @@ Ogni sottocartella contiene:
 ## Room Completate finora (Cyber Security 101)
 
 - [Strumenti OSINT per la Sicurezza](./Risorse_Online/Strumenti-OSINT.md) - Motori e Database per la Cyber Intelligence
+- [Rete & Analisi - Wireshark](./Wireshark_Essentials/Packet-Analysis_Wireshark.md) - Analisi Base con Wireshark
 
 *In aggiornamento...*
